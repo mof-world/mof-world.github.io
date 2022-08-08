@@ -63,7 +63,7 @@ description: >-
     <div class="footer">
         <hr/>
         <p>
-            Developed at <img src="https://www.epfl.ch/wp/5.5/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg" alt="epfl" height="20"/> led by
+            Devlopment led at <img src="https://www.epfl.ch/wp/5.5/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg" alt="epfl" height="20"/>  by
             <a href="https://kjablonka.com"> Kevin M Jablonka</a> in the <a href="https://www.epfl.ch/labs/lsmo/">  Laboratory of Molecular Simulation</a><br/>
             © 2021-2022
         </p>
