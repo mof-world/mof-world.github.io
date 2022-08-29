@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mof.world
-tagline: "mof.world: tools for digital reticular chemistry"
+tagline: "mof.world — tools for digital reticular chemistry"
 description: >-
     Reticular chemistry provides us with an enourmous design space. 
     Using digital tools we can efficiently explore this space. 
